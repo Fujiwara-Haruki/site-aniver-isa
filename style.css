@@ -27,7 +27,7 @@ body{
    align-items: center;
    justify-content: center;
 
-}
+} 
 
 .img-seta{
    height: 50vh;
@@ -56,6 +56,8 @@ main{
     min-height: 70vh;
     width: 70vw;
     background-color: rgb(171, 104, 234);
+    border: 5px solid rgb(58, 9, 100);
+    border-radius: 5px;
 
     padding: 2%;
     text-align: center;
@@ -68,6 +70,7 @@ main{
     width: 60%;
 
     padding: 40px;
+    
 }
 
 h2{
